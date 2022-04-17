@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcos Vinicius poop",
+      "email": "mvmarcos74@gmail.com"
+    },
+    {
+      "name": "capeta",
+      "email": "capeta@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Marcos V V Franco",
+      "email": "vilelamarcos055@gmail.com",
+      "id": 4
+    }
+  ]
+}
